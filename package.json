@@ -1,0 +1,16 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^27.0.1",
+    "npm": "^6.0.0",
+    "prop-types": "^15.6.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-browser": "^0.6.2",
+    "react-native-custom-tabs": "^0.1.7",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-safari-view": "^2.1.0",
+    "react-native-webbrowser-with-back": "^1.0.36"
+  }
+}
