@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "employee-app",
-    "description": "This project is really great.",
-    "slug": "employee-app",
+    "name": "AGCO Farm",
+    "description": "Access the AGCO Employee Portal",
+    "slug": "agco-employee",
     "privacy": "public",
     "sdkVersion": "27.0.0",
     "platforms": ["ios", "android"],
@@ -21,6 +21,7 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier" :"com.agco.empapp",
       "supportsTablet": true
     }
   }
